@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madalinmdv
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript, HTML&CSS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email- madalinvladungureanu@gmail.com
 
