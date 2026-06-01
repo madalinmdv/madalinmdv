@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @madalinmdv
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
 - 📫 How to reach me - email- madalinvladungureanu@gmail.com
 
 <!---
